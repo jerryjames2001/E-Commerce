@@ -26,6 +26,8 @@ git clone https://github.com/jerryjames2001/E-Commerce.git
     npm install
     npm run dev
     ```
+     - install taiwind from the tailwind website
+   
     For the backend:
     ```bash
     cd backend
